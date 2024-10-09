@@ -28,6 +28,7 @@ Find the location of the file with the name chromedriver.exe, copy the path and 
 ```bash
 "chrome_driver_path": "..."
 ```
+**AND RUN**
 **5-**
 You can use this code for different webs, changing urls and html selectors such as 
 ```bash
