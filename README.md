@@ -2,7 +2,7 @@
 this project is developed based on  [ Ceren Akyar's ZaraStockChecker project ](https://github.com/CerenAkyr/ZaraStockChecker).
 
 I drew significant inspiration from her codes especially using selenium. So a BIG THANK YOU to her indirect help 🙏🙏
-This app basically gives a sound notification whenever a lesson is added to the lesson pool by controlling html objects after automatically login to the site (inekle.com) with user informations.
+This app basically gives a sound notification whenever a lesson is added to the lesson pool by controlling html objects after automatically login to the site (inekle.com) with user informations. This way users can create a demand and increase the chance of being the instructor of the lesson as an early bird 🕊️
 ### REQUIREMENTS
 - python 3.6 or higher
 - chrome driver
