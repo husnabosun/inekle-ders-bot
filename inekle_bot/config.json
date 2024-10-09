@@ -1,0 +1,7 @@
+{   "urls": [
+        "https://inekle.com/ogretmen/#/"
+    ],
+    "sleep_min_seconds": 600,
+    "sleep_max_seconds": 720,
+    "chrome_driver_path": "path!the one with chrome.exe!"
+}
